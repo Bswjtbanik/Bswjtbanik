@@ -8,3 +8,9 @@ I love developing awesome and efficient mobile applications 🛠 📱
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)]()
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)]()
+
+### Languages and Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
